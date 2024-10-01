@@ -1,4 +1,4 @@
-# Fase 3 do TechChallenge de IA para DEVs
+# [Fase 3 do TechChallenge de IA para DEVs](https://github.com/silviosnjr/Fase3_TechChallenge)
 Tech Challenge | Fase 3 | Da pós FIAP "IA para DEVs"
 
 - Silvio Sales do Nascimento Junior (RM 353303)
