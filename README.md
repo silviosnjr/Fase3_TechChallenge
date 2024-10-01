@@ -8,5 +8,5 @@ Tech Challenge | Fase 3 | Da pós FIAP "IA para DEVs"
 * Descrição do processo de _fine-tuning_ do modelo, com detalhes dos parâmetros e ajustes utilizados.
 * Código-fonte do processo de _fine-tuning_.
 
-**Vídeo do Youtube: [https://youtu.be/q_EVIa-qciA](https://youtu.be/q_EVIa-qciA) contendo:**
+**Vídeo do Youtube: [https://youtu.be/8c6EZHQRCeI](https://youtu.be/8c6EZHQRCeI) contendo:**
 * Um vídeo demonstrando o modelo treinado gerando respostas a partir de perguntas do usuário e utilizando o contexto obtido por meio do treinamento com o _fine-tuning_.
